@@ -7,7 +7,7 @@ the translated Chinese text, we have to do the following steps:
 3. Translating the words.
 4. Marking the words' with Chinese Pinyin.
 5. Back translating the Chinese text into English. 
-The work via the API of Deepseek to do the work. 
+The work via the API of Deepseek. 
 
 """
 
