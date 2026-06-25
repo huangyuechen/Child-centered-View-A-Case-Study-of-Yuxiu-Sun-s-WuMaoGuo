@@ -21,3 +21,5 @@ one_day / comma / big_man_hears / obtains / mutually_agreeable / has_person / go
 
 (5) The back translated English from Translated Chinese：
 One day, Danan learned that someone in the neighborhood was going to the capital for the imperial examination. Without informing anyone, he went straight to the boat and hid himself in the cabin. 
+
+What should be mention is that, in the step “Back translate From Chinese into English (Lexical level)”, the translation machine could not totally translate words one by one, because English less the expression. For example, in the expression “买/去”, the “买去” means "someone bought something", but is no meaning when segmented into “买” and “去”. So I have checked and post-edited the lexical segment results carefully and amended the errors like it. And other errors, like capitalization, mistakes and so on have been amended as well. Meanwhile, the counterparts in the list “Back Translated From Chinese into English(Lexical level)” have also been changed.
