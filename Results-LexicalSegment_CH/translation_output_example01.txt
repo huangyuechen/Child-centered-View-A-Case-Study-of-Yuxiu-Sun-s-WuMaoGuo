@@ -1,0 +1,14 @@
+原始文本：
+从前有一座古寺傍在大河北岸。那河的南岸有个高台，问起此台的名字，却也奇怪，人人都称他做鼠台。我今先把鼠台的故事说明作个引子，再讲那无猫国的奇闻。……此便是鼠台的故事。和尚生在有猫国里不肯养猫，以致遭此大祸。如今再说件故事，却是一个小小童子有一只猫，为无猫国的国王买去，居然得了重价，真是奇闻。
+
+分词结果（jieba）：
+从前 / 有 / 一座 / 古寺 / 傍 / 在 / 大河 / 北岸 / 。 / 那河 / 的 / 南岸 / 有个 / 高台 / ， / 问起 / 此台 / 的 / 名字 / ， / 却 / 也 / 奇怪 / ， / 人人 / 都 / 称 / 他 / 做 / 鼠 / 台 / 。 / 我 / 今先 / 把 / 鼠 / 台 / 的 / 故事 / 说明 / 作个 / 引子 / ， / 再 / 讲 / 那 / 无猫国 / 的 / 奇闻 / 。 / … / … / 此 / 便是 / 鼠台 / 的 / 故事 / 。 / 和尚 / 生在 / 有 / 猫 / 国里 / 不肯 / 养猫 / ， / 以致 / 遭此 / 大祸 / 。 / 如今 / 再说 / 件 / 故事 / ， / 却是 / 一个 / 小小 / 童子 / 有 / 一只 / 猫 / ， / 为 / 无猫国 / 的 / 国王 / 买 / 去 / ， / 居然 / 得 / 了 / 重价 / ， / 真是 / 奇闻 / 。
+
+分词拼音：
+cóng / qián / yǒu / yī / zuò / gǔ / sì / bàng / zài / dà / hé / běi / àn / 。 / nà / hé / de / nán / àn / yǒu / gè / gāo / tái / ， / wèn / qǐ / cǐ / tái / de / míng / zì / ， / què / yě / qí / guài / ， / rén / rén / dōu / chēng / tā / zuò / shǔ / tái / 。 / wǒ / jīn / xiān / bǎ / shǔ / tái / de / gù / shì / shuō / míng / zuò / gè / yǐn / zi / ， / zài / jiǎng / nà / wú / māo / guó / de / qí / wén / 。 / … / … / cǐ / biàn / shì / shǔ / tái / de / gù / shì / 。 / hé / shàng / shēng / zài / yǒu / māo / guó / lǐ / bù / kěn / yǎng / māo / ， / yǐ / zhì / zāo / cǐ / dà / huò / 。 / rú / jīn / zài / shuō / jiàn / gù / shì / ， / què / shì / yí / gè / xiǎo / xiǎo / tóng / zi / yǒu / yī / zhī / māo / ， / wèi / wú / māo / guó / de / guó / wáng / mǎi / qù / ， / jū / rán / dé / le / zhòng / jià / ， / zhēn / shì / qí / wén / 。
+
+逐词翻译（词级对应）：
+once / upon / a / time / there / was / an / ancient / temple / beside / a / great / river / on / the / north / bank / . / that / river / 's / south / bank / there / was / a / high / terrace / , / when / asked / this / terrace / 's / name / , / it / was / also / strange / , / everyone / all / called / it / Rat / Terrace / . / I / now / first / take / Rat / Terrace / 's / story / explain / as / an / introduction / , / then / tell / that / Catless_Kingdom / 's / strange / tale / . / … / … / this / is / Rat / Terrace / 's / story / . / The / monk / born / in / a / cat / kingdom / unwilling / to / keep_cats / , / thus / suffered / this / great / disaster / . / Now / again / tell
+
+整体译文（准确英文）：
+Once upon a time, there was an ancient temple situated on the northern bank of a great river. On the southern bank of the river stood a high platform. Curiously, when asked about its name, everyone called it the Rat Platform. Let me first recount the tale of the Rat Platform as an introduction, and then proceed to tell the strange story of the Catless Kingdom. ... Such is the tale of the Rat Platform. A monk, living in a land with cats, refused to keep one, thereby bringing great calamity upon himself. Now, let me tell another story—one about a little boy who owned a cat. The cat was bought by the king of the Catless Kingdom at a high price, which is indeed a remarkable tale.

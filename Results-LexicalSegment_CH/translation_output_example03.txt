@@ -1,0 +1,14 @@
+原始文本：
+大男在此日夜难过，想不如逃归，免得受苦。一日，天还没亮，悄悄的开门出去，穿过几条巷，心上便觉糊涂，辨不出方向，因此不敢前进，仍回主人家来。
+
+分词结果（jieba）：
+大 / 男 / 在 / 此 / 日夜 / 难过 / ， / 想 / 不如 / 逃归 / ， / 免得 / 受苦 / 。 / 一日 / ， / 天 / 还 / 没亮 / ， / 悄悄的 / 开门 / 出去 / ， / 穿过 / 几条 / 巷 / ， / 心上 / 便觉 / 糊涂 / ， / 辨不出 / 方向 / ， / 因此 / 不敢 / 前进 / ， / 仍回 / 主人家 / 来 / 。
+
+分词拼音：
+dà / nán / zài / cǐ / rì / yè / nán / guò / ， / xiǎng / bù / rú / táo / guī / ， / miǎn / de / shòu / kǔ / 。 / yī / rì / ， / tiān / hái / méi / liàng / ， / qiāo / qiāo / de / kāi / mén / chū / qù / ， / chuān / guò / jǐ / tiáo / xiàng / ， / xīn / shàng / biàn / jué / hú / tú / ， / biàn / bù / chū / fāng / xiàng / ， / yīn / cǐ / bù / gǎn / qián / jìn / ， / réng / huí / zhǔ / rén / jiā / lái / 。
+
+逐词翻译（词级对应）：
+big / male / at / this / day_and_night / sad / , / think / might_as_well / escape_back / , / avoid / suffer / . / one_day / , / sky / still / not_dawn / , / quietly / open_door / go_out / , / pass_through / several / alley / , / heart / feel / confused / , / cannot_distinguish / direction / , / therefore / dare_not / advance / , / still_return / master_house / come / .
+
+整体译文（准确英文）：
+The young man found it unbearable to stay there day and night, thinking it would be better to run away and escape the suffering. One day, before dawn, he quietly opened the door and slipped out. After crossing several alleys, he felt disoriented and could no longer tell which direction to go. Afraid to proceed further, he turned back and returned to his master's house.

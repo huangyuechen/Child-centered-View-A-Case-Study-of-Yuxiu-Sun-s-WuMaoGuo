@@ -1,0 +1,14 @@
+原始文本：
+一日，大男闻得相中有人上京应试，他也不通知人家，竟走到船上，伏在舱里。及至船离了岸，大家方才知道。以为这个孤儿穷的可怜，如今进京或是寻他亲戚，做个依靠。所以倒也不怪他。
+
+分词结果（jieba）：
+一日 / ， / 大男闻 / 得 / 相中 / 有人 / 上京 / 应试 / ， / 他 / 也 / 不 / 通知 / 人家 / ， / 竟 / 走 / 到 / 船上 / ， / 伏 / 在 / 舱 / 里 / 。 / 及至 / 船离 / 了 / 岸 / ， / 大家 / 方才 / 知道 / 。 / 以为 / 这个 / 孤儿 / 穷 / 的 / 可怜 / ， / 如今 / 进京 / 或是 / 寻 / 他 / 亲戚 / ， / 做个 / 依靠 / 。 / 所以 / 倒也不 / 怪 / 他 / 。
+
+分词拼音：
+yī / rì / ， / dà / nán / wén / dé / xiāng / zhòng / yǒu / rén / shàng / jīng / yìng / shì / ， / tā / yě / bù / tōng / zhī / rén / jiā / ， / jìng / zǒu / dào / chuán / shàng / ， / fú / zài / cāng / lǐ / 。 / jí / zhì / chuán / lí / le / àn / ， / dà / jiā / fāng / cái / zhī / dào / 。 / yǐ / wéi / zhè / ge / gū / ér / qióng / de / kě / lián / ， / rú / jīn / jìn / jīng / huò / shì / xún / tā / qīn / qī / ， / zuò / gè / yī / kào / 。 / suǒ / yǐ / dào / yě / bù / guài / tā / 。
+
+逐词翻译（词级对应）：
+one_day / comma / big_man_hears / obtains / mutually_agreeable / has_person / go_to_capital / take_exam / comma / he / also / not / notify / others / comma / unexpectedly / walk / to / on_boat / comma / lie / in / cabin / inside / period / until / boat_leaves / completed / shore / comma / everyone / only_then / knows / period / think / this / orphan / poor / particle / pitiable / comma / now / enter_capital / perhaps / seek / his / relatives / comma / make_a / support / comma / therefore / however_not / blame / him / period
+
+整体译文（准确英文）：
+One day, Danan learned that someone in the neighborhood was going to the capital for the imperial examination. Without informing anyone, he went straight to the boat and hid himself in the cabin. It was only after the boat had left the shore that everyone realized his presence. They assumed that this poor orphan, pitiful in his destitution, was heading to the capital perhaps to seek out his relatives and find some support. Thus, they did not hold it against him.

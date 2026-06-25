@@ -1,0 +1,14 @@
+原始文本：
+大男得了许多金珠，自然是个大富人。不忍与主人相别，仍在他家里住下。大男却并不恃富而骄，见着主人仍旧是恭恭敬敬；见着同伴，仍旧是和和气气。天天到学堂念书。不消几年，学问就很好了。
+
+分词结果（jieba）：
+大男得 / 了 / 许多 / 金珠 / ， / 自然 / 是 / 个 / 大 / 富人 / 。 / 不忍 / 与 / 主人 / 相 / 别 / ， / 仍 / 在 / 他 / 家里 / 住 / 下 / 。 / 大 / 男 / 却 / 并 / 不 / 恃 / 富而骄 / ， / 见 / 着 / 主人 / 仍旧 / 是 / 恭恭敬敬 / ； / 见 / 着 / 同伴 / ， / 仍旧 / 是 / 和和气气 / 。 / 天天 / 到 / 学堂 / 念书 / 。 / 不消 / 几年 / ， / 学问 / 就 / 很 / 好 / 了 / 。
+
+分词拼音：
+dà / nán / dé / le / xǔ / duō / jīn / zhū / ， / zì / rán / shì / gè / dà / fù / rén / 。 / bù / rěn / yǔ / zhǔ / rén / xiāng / bié / ， / réng / zài / tā / jiā / lǐ / zhù / xià / 。 / dà / nán / què / bìng / bù / shì / fù / ér / jiāo / ， / jiàn / zhe / zhǔ / rén / réng / jiù / shì / gōng / gōng / jìng / jìng / ； / jiàn / zhe / tóng / bàn / ， / réng / jiù / shì / hé / hé / qì / qì / 。 / tiān / tiān / dào / xué / táng / niàn / shū / 。 / bù / xiāo / jǐ / nián / ， / xué / wèn / jiù / hěn / hǎo / le / 。
+
+逐词翻译（词级对应）：
+Big_man_got / many / gold_beads / , / naturally / is / a / big / rich_person / . / cannot_bear / to / host / each / other / part / , / still / at / his / home / live / down / . / big / man / but / not / rely_on_wealth_and_be_arrogant / , / seeing / host / still / is / respectful / ; / seeing / companions / , / still / is / amiable / . / every_day / go_to / school / study / . / not_need / few / years / , / knowledge / then / very / good / . / [?] / [?] / [?] / [?]
+
+整体译文（准确英文）：
+The eldest son acquired a great deal of gold and pearls, naturally becoming a man of great wealth. Unable to bear parting with his master, he continued to stay at his home. Yet, he did not grow arrogant with riches; he remained respectful toward his master and amiable toward his companions. Every day, he went to the schoolhouse to study. In just a few years, his scholarship became excellent.
